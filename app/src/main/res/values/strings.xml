@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InsisTestTask</string>
+    <string name="note_name_info">Name</string>
+    <string name="description_note_info">Description</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="save">Save</string>
+    <string name="pick_color">Pick color</string>
+    <string name="json_pre_populate">{\"notes\":[{\"id\":1,\"noteName\" :\"note 1\",\"noteDescription\":\" note 1 description\",\"color\":-1}, {\"id\":2,\"noteName\":\"note 2\",\"noteDescription\":\" note 2 description\",\"color\":-1},{\"id\":3,\"noteName\":\"note 3\",\"noteDescription\":\" note 3 description\",\"color\":-1},{\"id\":4,\"noteName\":\"note 4\",\"noteDescription\":\" note 4 description\",\"color\":-1},{\"id\":5,\"noteName\":\"note 5\",\"noteDescription\":\" note 5 description\",\"color\":-1},{\"id\":6,\"noteName\":\"note 6\",\"noteDescription\":\" note 6 description\",\"color\":-1},{\"id\":7,\"noteName\":\"note 7\",\"noteDescription\":\" note 7 description\",\"color\":-1},{\"id\":8,\"noteName\":\"note 8\",\"noteDescription\":\" note 8 description\",\"color\":-1},{\"id\":9,\"noteName\":\"note 9\",\"noteDescription\":\" note 9 description\",\"color\":-1},{\"id\":10,\"noteName\":\"note 10\",\"noteDescription\":\" note 10 description\",\"color\":-1}]}</string>
+    <string name="delete">delete</string>
+</resources>
